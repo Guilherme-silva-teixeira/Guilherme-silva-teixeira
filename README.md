@@ -1,4 +1,4 @@
-<body style="background: #333;">
+<body style="background: #000;">
   
 **Hello there**<br>
 this is my GitHub profile
@@ -12,7 +12,9 @@ this is my GitHub profile
 <br>
 </center>
 
-![](https://github-readme-stats.vercel.app/api?username=guilherme-silva-teixeira&show_icons=true&theme=dark)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guilherme-silva-teixeira&layout=compact&theme=dark)
+![](https://github-readme-stats.vercel.app/api?username=guilherme-silva-teixeira&show_icons=true&theme=dark)
+<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guilherme-silva-teixeira&layout=compact&theme=dark)
 
 
 <br>
@@ -40,12 +42,15 @@ this is my GitHub profile
 
 #
 
-<div style="display: flex;">
-<span style="font-size: 17px;">And these frameworks:</span>
-</div>
 
+<span style="font-size: 17px;">And these frameworks:</span>
+
+<div style="display: flex;">
 <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
 <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
+</div>
+
+#
 
 <br>
 
