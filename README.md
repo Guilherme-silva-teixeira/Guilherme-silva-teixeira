@@ -23,7 +23,7 @@ this is my GitHub profile
 <div style="font-size: 23px;"><center><strong>Tecnologies:</strong></center></div>
 
 <br>
-##<span style="font-size: 17px;">i use these tecnologies and languages to programing:</span>
+<span style="font-size: 17px;">i use these tecnologies and languages to programing:</span>
 
 
 <br>
@@ -37,15 +37,16 @@ this is my GitHub profile
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 </div>
+
 #
 
-
-##<span style="font-size: 17px;">And these frameworks:</span>
+<div style="display: flex;">
+<span style="font-size: 17px;">And these frameworks:</span>
+</div>
 
 <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
 <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
 
-#
 <br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guilherme-silva-teixeira&layout=pie&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
