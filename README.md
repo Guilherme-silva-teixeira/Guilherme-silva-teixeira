@@ -1,3 +1,5 @@
+<body style="background: #333;">
+  
 **Hello there**<br>
 this is my GitHub profile
 <br>
@@ -47,3 +49,5 @@ this is my GitHub profile
 <br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guilherme-silva-teixeira&layout=pie&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+</body>
