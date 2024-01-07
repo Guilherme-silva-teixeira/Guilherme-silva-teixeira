@@ -26,8 +26,6 @@ this is my GitHub profile
 
 <br>
 <span style="font-size: 17px;">i use these tecnologies and languages to programing:</span>
-
-
 <br>
 <div style="display: flex;">
 <img src="	https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
@@ -44,7 +42,7 @@ this is my GitHub profile
 
 
 <span style="font-size: 17px;">And these frameworks:</span>
-
+<br>
 <div style="display: flex;">
 <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
 <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
