@@ -24,6 +24,7 @@ this is my GitHub profile
 <div style="font-size: 23px;"><center><strong>Tecnologies:</strong></center></div>
 
 <br>
+
 <span style="font-size: 17px;">i use these tecnologies and languages to programing:</span>
 <br>
 <div style="display: flex;">
