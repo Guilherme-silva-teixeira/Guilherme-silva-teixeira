@@ -13,8 +13,12 @@ this is my GitHub profile
 </center>
 
 ![](https://github-readme-stats.vercel.app/api?username=guilherme-silva-teixeira&show_icons=true&theme=dark)
+
 <div style="font-size: 23px; font: 501;"><strong>Main used languages:</strong></div>
+
 <br>
+
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guilherme-silva-teixeira&layout=compact&theme=dark)
 
 
