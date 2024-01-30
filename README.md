@@ -1,20 +1,20 @@
 <body style="background: #000;">
   
-**Hello there**<br>
-this is my GitHub profile
+**Olá**<br>
+Este é o meu perfil do github
 <br>
 
 
 #
 
 <center>
-<div style="font-size: 23px; font: 501;"><strong>Main stats:</strong></div>
+<div style="font-size: 23px; font: 501;"><strong> **Estatiticas principais** </strong></div>
 <br>
 </center>
 
 ![](https://github-readme-stats.vercel.app/api?username=guilherme-silva-teixeira&show_icons=true&theme=dark)
 
-<div style="font-size: 23px; font: 501;"><strong>Main used languages:</strong></div>
+<div style="font-size: 23px; font: 501;"><strong>Linguagens que eu mais uso para programar:</strong></div>
 
 <br>
 
@@ -27,11 +27,11 @@ this is my GitHub profile
 #
 
 
-<div style="font-size: 23px;"><center><strong>Tecnologies:</strong></center></div>
+<div style="font-size: 23px;"><center><strong>Tecnologias:</strong></center></div>
 
 <br>
 
-<span style="font-size: 17px;">i use these tecnologies and languages to programing:</span>
+<span style="font-size: 17px;">Outras tecnologias que eu uso:</span>
 <br>
 <div style="display: flex;">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
@@ -48,7 +48,7 @@ this is my GitHub profile
 #
 
 
-<span style="font-size: 17px;">And these frameworks:</span>
+<span style="font-size: 17px;">E estas frameworks</span>
 <br>
 <div style="display: flex;">
 <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
