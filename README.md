@@ -8,13 +8,13 @@ Este é o meu perfil do github
 #
 
 <center>
-<div style="font-size: 23px; font: 501; background: #e4e4e455;"><strong> Estatiticas principais </strong></div>
+<div style="font-size: 23px; font: 501; background: #e4e4e455;"><strong>------- Estatiticas principais: </strong></div>
 <br>
 </center>
 
 ![](https://github-readme-stats.vercel.app/api?username=guilherme-silva-teixeira&show_icons=true&theme=dark)
 
-<div style="font-size: 23px; font: 501;"><strong>Linguagens que eu mais uso para programar:</strong></div>
+<div style="font-size: 23px; font: 501;"><strong>------- Linguagens que eu mais uso para programar:</strong></div>
 
 <br>
 
@@ -26,7 +26,7 @@ Este é o meu perfil do github
 
 #
 
-
+<p>--------------------</p>
 <div style="font-size: 23px;"><center><strong>Tecnologias:</strong></center></div>
 
 <br>
