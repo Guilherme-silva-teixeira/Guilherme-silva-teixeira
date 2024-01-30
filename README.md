@@ -8,7 +8,7 @@ Este é o meu perfil do github
 #
 
 <center>
-<div style="font-size: 23px; font: 501;"><strong> **Estatiticas principais** </strong></div>
+<div style="font-size: 23px; font: 501; background: #e4e4e455;"><strong> Estatiticas principais </strong></div>
 <br>
 </center>
 
