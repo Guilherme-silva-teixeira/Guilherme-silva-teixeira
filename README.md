@@ -66,4 +66,6 @@ Este é o meu perfil do github
 
 <br>
 
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=201&color=fff&fontAlignY=60&section=footer&reversal=false" width="100%"/>
 </body>
