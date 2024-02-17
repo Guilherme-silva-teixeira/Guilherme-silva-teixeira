@@ -31,6 +31,9 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=guilherme-silva-teixeira&theme=dark)](https://git.io/streak-stats)
 </div>
 
+#
+
+
 <img src="https://capsule-render.vercel.app/api?type=waving&height=201&color=fff&fontAlignY=60&section=footer&reversal=false" width="100%"/>
 
 </div>
