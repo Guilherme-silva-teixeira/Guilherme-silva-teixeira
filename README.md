@@ -15,13 +15,6 @@ Este é o meu perfil do github
 </center>
 
 ![](https://github-readme-stats.vercel.app/api?username=guilherme-silva-teixeira&show_icons=true&theme=dark)
-
-<p>_______________________________________________________________________________________________</p>
-<div style="font-size: 23px; font: 501;"><strong>------- Linguagens que eu mais uso para programar:</strong></div>
-
-<br>
-
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guilherme-silva-teixeira&layout=compact&theme=dark)
 
 
