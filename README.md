@@ -1,6 +1,6 @@
 <body background="#000">
 <div background="#eee">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=201&color=fff&fontAlignY=60&section=header&reversal=false"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=201&color=ffd&fontAlignY=60&section=header&reversal=false"/>
 
 <div width="100%" display="flex" justify-content="center" align-items="center">
 
@@ -34,7 +34,7 @@
 #
 
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=201&color=fff&fontAlignY=60&section=footer&reversal=false" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=201&color=ffd&fontAlignY=60&section=footer&reversal=false" width="100%"/>
 
 </div>
 </body>
