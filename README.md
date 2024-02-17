@@ -23,11 +23,12 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=17&pause=1000&color=F7F7F7&vCenter=true&random=false&width=435&lines=Main+stats%3A)](https://git.io/typing-svg)
 
-<div width="100%" display="flex" justify-content="space-between">
+<div width="100%" display="flex" justify-content="space-between" align="center">
   
 ![](https://github-readme-stats.vercel.app/api?username=guilherme-silva-teixeira&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guilherme-silva-teixeira&layout=compact&theme=dark)
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=guilherme-silva-teixeira)](https://git.io/streak-stats)
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=201&color=fff&fontAlignY=60&section=footer&reversal=false" width="100%"/>
