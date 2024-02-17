@@ -26,15 +26,18 @@
 <div width="100%" display="flex" justify-content="space-between" align="center">
   
 ![](https://github-readme-stats.vercel.app/api?username=guilherme-silva-teixeira&show_icons=true&theme=dark)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guilherme-silva-teixeira&layout=compact&theme=dark)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=guilherme-silva-teixeira&theme=dark)](https://git.io/streak-stats)
 </div>
 
 #
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=&weight=300&size=23&pause=1000&color=FFFFFF&random=false&width=435&lines=+languages+%E2%80%8B%E2%80%8BI+use%3A)](https://git.io/typing-svg)
 
-
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png">
 <img src="https://capsule-render.vercel.app/api?type=waving&height=201&color=ffd&fontAlignY=60&section=footer&reversal=false" width="100%"/>
+
 
 </div>
 </body>
