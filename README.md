@@ -8,6 +8,8 @@
 
  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=33&duration=5003&pause=1001&color=F7F7F7&center=true&vCenter=true&random=true&width=700&height=51&lines=Ol%C3%A1;Hello;Hola;Bonjour;+%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82;+%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94;+Hallo)](https://git.io/typing-svg)
 
+My name is Guilherme Silva Teixeira, i'm 15 years old and i study the math and logic area
+
 </p>
 </div>
 <br>
