@@ -1,3 +1,11 @@
+<style>
+  img
+  {
+    height: 30px;
+    width: 30px;
+  }
+</style>
+
 <body style="background: #000;">
   
 **Olá**<br>
