@@ -13,10 +13,9 @@ Este é o meu perfil do github
 <div style="font-size: 23px; font: 501; background: #e4e4e455;"><strong>------- Estatiticas principais: </strong></div>
 <br>
 </center>
-<div display="flex">
+<div display="flex" justify-content="space-between">
   
-  ![](https://github-readme-stats.vercel.app/api?username=guilherme-silva-teixeira&show_icons=true&theme=dark)
-
+![](https://github-readme-stats.vercel.app/api?username=guilherme-silva-teixeira&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guilherme-silva-teixeira&layout=compact&theme=dark)
 
 </div>
