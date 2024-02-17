@@ -35,6 +35,7 @@
 
 #
 <br>
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=23&pause=1000&color=FFFFFF&random=false&width=435&lines=Languages+i+use%3A)](https://git.io/typing-svg)
 <br>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" width="30px" heigth="30px"/>
