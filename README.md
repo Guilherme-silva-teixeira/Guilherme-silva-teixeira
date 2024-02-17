@@ -4,10 +4,9 @@
 
 <div width="100%" display="flex" justify-content="center" align-items="center">
 
-<p style="color: #0000;">
-=======================================================
-    
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=33&duration=5003&pause=1000&color=F7F7F7&center=true&vCenter=true&random=false&width=700&lines=Ol%C3%A1;Hello;Hola;Bonjour;+%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82;+%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94;+Hallo)](https://git.io/typing-svg)
+<p style="color: #0000; text-align: center;">
+
+ [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=33&duration=5003&pause=1000&color=F7F7F7&center=true&vCenter=true&random=false&width=700&lines=Ol%C3%A1;Hello;Hola;Bonjour;+%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82;+%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94;+Hallo)](https://git.io/typing-svg)
 
 </p>
 </div>
