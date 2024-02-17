@@ -56,9 +56,9 @@
 &emsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png" width="50px" heigth="30px"/>
 &emsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png" width="30px" heigth="30px">
+<img src="https://hermes.dio.me/articles/cover/496931d9-69d6-4956-bb0a-032dd5792ade.png" width="30px" heigth="30px">
 &emsp;
-<img src="https://raw.githubusercontent.com/T-Dynamos/Metasploit/main/368-3682149_this-metasploit-logo.png" width="60px" heigth="30px"/>
+<img src="https://raw.githubusercontent.com/T-Dynamos/Metasploit/main/368-3682149_this-metasploit-logo.png" width="90px" heigth="50px"/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=201&color=ffd&fontAlignY=60&section=footer&reversal=false" width="100%"/>
 
