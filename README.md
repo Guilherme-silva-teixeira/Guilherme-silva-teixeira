@@ -1,6 +1,6 @@
+<body background="#000">
+<div background="#eee">
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=201&color=fff&fontAlignY=60&section=header&reversal=false"/>
-
-<body style="background: #eee;">
   
 **Olá**<br>
 Este é o meu perfil do github
@@ -64,4 +64,6 @@ Este é o meu perfil do github
 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=201&color=fff&fontAlignY=60&section=footer&reversal=false" width="100%"/>
+
+</div>
 </body>
