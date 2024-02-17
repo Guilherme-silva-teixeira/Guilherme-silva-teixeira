@@ -58,7 +58,7 @@
 &emsp;
 <img src="https://hermes.dio.me/articles/cover/496931d9-69d6-4956-bb0a-032dd5792ade.png" width="30px" heigth="30px">
 &emsp;
-<img src="https://raw.githubusercontent.com/T-Dynamos/Metasploit/main/368-3682149_this-metasploit-logo.png" width="90px" heigth="50px"/>
+<img src="https://w7.pngwing.com/pngs/122/777/png-transparent-metasploit-project-penetration-test-security-hacker-computer-security-shellcode-ruby-blue-angle-logo-thumbnail.png" width="30px" heigth="30px"/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=201&color=ffd&fontAlignY=60&section=footer&reversal=false" width="100%"/>
 
