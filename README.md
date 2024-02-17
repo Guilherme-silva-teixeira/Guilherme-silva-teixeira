@@ -28,7 +28,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=guilherme-silva-teixeira&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guilherme-silva-teixeira&layout=compact&theme=dark)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=guilherme-silva-teixeira)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=guilherme-silva-teixeira&theme=dark)](https://git.io/streak-stats)
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=201&color=fff&fontAlignY=60&section=footer&reversal=false" width="100%"/>
