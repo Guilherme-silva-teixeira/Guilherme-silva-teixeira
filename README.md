@@ -17,13 +17,15 @@
 
 </div>
 <br>
-<br>
+
 
 #
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=17&pause=1000&color=F7F7F7&vCenter=true&random=false&width=435&lines=Main+stats%3A)](https://git.io/typing-svg)
 
 <div width="100%" display="flex" justify-content="space-between" align="center">
+
+
   
 ![](https://github-readme-stats.vercel.app/api?username=guilherme-silva-teixeira&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guilherme-silva-teixeira&layout=compact&theme=dark)
@@ -32,7 +34,8 @@
 </div>
 
 #
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=23&pause=1000&color=FFFFFF&random=false&width=435&lines=Languages+i+use%3A)](https://git.io/typing-svg)
+<br>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" width="30px" heigth="30px"/>
 <img src="https://static-00.iconduck.com/assets.00/c-sharp-c-icon-1822x2048-wuf3ijab.png" width="30px" heigth="30px"/>
 
