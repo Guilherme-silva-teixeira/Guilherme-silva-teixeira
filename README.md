@@ -5,14 +5,7 @@
 **Olá**<br>
 Este é o meu perfil do github
 <br>
-
-
-#
-
-<center>
-<div><strong font-size="53px">Main stats:</strong></div>
-<br>
-</center>
+<strong font-size="53px">Main stats:</strong>
 <div width="100%" display="flex" justify-content="space-between">
   
 ![](https://github-readme-stats.vercel.app/api?username=guilherme-silva-teixeira&show_icons=true&theme=dark)
