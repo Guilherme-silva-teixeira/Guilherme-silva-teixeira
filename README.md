@@ -33,6 +33,7 @@
 
 #
 
+<img src="https://static-00.iconduck.com/assets.00/c-sharp-c-icon-1822x2048-wuf3ijab.png" width="30px" heigth="30px"/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=201&color=ffd&fontAlignY=60&section=footer&reversal=false" width="100%"/>
 
