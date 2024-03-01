@@ -10,7 +10,7 @@
 
 </div>
 <br>
-<p align="center">My name is Guilherme Silva Teixeira, I am 15 years old and I study the math and logic area with computer science.</p>&nbsp;
+<p align="center">My name is Guilherme Silva Teixeira, I am 16 years old and I study the math and logic area with computer science.</p>&nbsp;
  
  &nbsp;
  &nbsp;
