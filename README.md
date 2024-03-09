@@ -1,6 +1,8 @@
 <body>
   <header>
     
+    [![Typing SVG](https://readme-typing-svg.demolab.com?font=&weight=100&size=41&pause=1000&color=F7F7F7&center=true&vCenter=true&random=false&width=435&lines=Hello)](https://git.io/typing-svg)
+  
   </header>
   <section>
 
