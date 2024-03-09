@@ -1,4 +1,4 @@
-<body>
+j<body>
   <header>
     
   </header>
@@ -10,7 +10,7 @@
   
  </div>
 
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?guilherme-silva-teixeira=anuraghazra&show_icons=true&theme=transparent)
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Guilherme-Silva-Teixeira=anuraghazra&show_icons=true&theme=transparent)
   </section>
   <footer>
     
