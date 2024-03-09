@@ -14,7 +14,7 @@ j<body>
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=guilherme-silva-teixeira" />
 </a>
 <a href="https://github.com/guilherme-silva-teixeira/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=guilherme-silva-teixeira&layout=dark&langs_count=8&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=guilherme-silva-teixeira&layout=compact&langs_count=8&card_width=320&theme = black" />
 </a>
 
   </section>
