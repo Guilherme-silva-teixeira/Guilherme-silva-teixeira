@@ -6,7 +6,7 @@
 
 </div>
 <div style="width:100%; display: flex; justify-content: center; align-items: center;"> 
-<p>My name is Guilherme and i'm 16 years old</p>
+<p><center>My name is Guilherme and i'm 16 years old</center></p>
 </div>
   </header>
   <section>
