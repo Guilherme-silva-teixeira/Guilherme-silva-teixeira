@@ -33,7 +33,7 @@
             max-width: 100%;
         }
     </style>
-</head>****
+</head>
 
 <body style="background: #111;">
   <header>
