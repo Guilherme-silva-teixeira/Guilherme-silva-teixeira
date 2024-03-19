@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<!--<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -34,7 +34,7 @@
         }
     </style>
 </head>
-
+-->
 <body style="background: #111;">
   <header>
     <div style="width:100%; display: flex; justify-content: center; align-items: center;"> 
