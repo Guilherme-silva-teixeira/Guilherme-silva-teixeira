@@ -74,6 +74,7 @@
     <img style="heigth: 61px; width: 61px; margin-top: -17px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png">&emsp;&emsp;
       <img style="heigth: 61px; width: 61px; margin-top: -17px;" src="https://media.licdn.com/dms/image/D4D12AQEfpm1hZiEN6Q/article-cover_image-shrink_720_1280/0/1673639331003?e=2147483647&v=beta&t=y-2SK0tAKIhMI4adSJ-kODboj4OUznZgWe95jOdHoww">&emsp;
         <img style="heigth: 71px; width: 71px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/250px-Angular_full_color_logo.svg.png">
+        <img style="heigth: 71px; width: 71px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Svelte_Logo.svg/1200px-Svelte_Logo.svg.png">
         </div>
     <br>
     </footer>
