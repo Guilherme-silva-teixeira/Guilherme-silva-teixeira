@@ -44,6 +44,7 @@
 </div>
 <div style="width:100%; display: flex; justify-content: center; align-items: center;"> 
 <p><center>My name is Guilherme and i'm 16 years old</center></p>
+    <div>I'm am fullstack and game developer;</div>
 </div>
   </header>
   <section>
