@@ -44,7 +44,6 @@
 </div>
 <div style="width:100%; display: flex; justify-content: center; align-items: center;"> 
 <hr>
-#
 </div>
   </header>
   <section>
@@ -78,7 +77,6 @@
         </div>
     <br>
       <hr>
-      #
     </footer>
     <br>
 </body>
