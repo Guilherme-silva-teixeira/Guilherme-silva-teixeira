@@ -39,11 +39,11 @@
   <header>
     <div style="width:100%; display: flex; justify-content: center; align-items: center;"> 
       
-  &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; [![Typing SVG](https://readme-typing-svg.demolab.com?font=&weight=100&size=41&pause=1000&color=F7F7F7&center=true&vCenter=true&random=false&width=435&lines=Hello+world)](https://git.io/typing-svg)
+  &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &ensp; [![Typing SVG](https://readme-typing-svg.demolab.com?font=&weight=100&size=41&pause=1000&color=F7F7F7&center=true&vCenter=true&random=false&width=435&lines=Hello+world)](https://git.io/typing-svg)
 
 </div>
 <div style="width:100%; display: flex; justify-content: center; align-items: center;"> 
-<hr>
+<hr style="height: 1px; background: #fff;">
 </div>
   </header>
   <section>
@@ -76,7 +76,7 @@
         <img style="heigth: 51px; width: 51px; margin-top: 7px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Svelte_Logo.svg/1200px-Svelte_Logo.svg.png">
         </div>
     <br>
-      <hr>
+      <hr style="height: 1px; background: #fff;">
     </footer>
     <br>
 </body>
