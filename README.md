@@ -43,8 +43,7 @@
 
 </div>
 <div style="width:100%; display: flex; justify-content: center; align-items: center;"> 
-<p><center>My name is Guilherme and i'm 16 years old</center></p>
-    <div>I'm am fullstack and game developer</div>
+<hr>
 </div>
   </header>
   <section>
@@ -78,6 +77,7 @@
         <img style="heigth: 51px; width: 51px; margin-top: 7px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Svelte_Logo.svg/1200px-Svelte_Logo.svg.png">
         </div>
     <br>
+      <hr>
     </footer>
     <br>
 </body>
