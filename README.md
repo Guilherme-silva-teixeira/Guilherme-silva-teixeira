@@ -44,7 +44,7 @@
 </div>
 <div style="width:100%; display: flex; justify-content: center; align-items: center;"> 
 
-#### Main stats
+&nbsp;
 
 </div>
   </header>
