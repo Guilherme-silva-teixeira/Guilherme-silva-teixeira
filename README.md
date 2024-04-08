@@ -44,7 +44,7 @@
 </div>
 <div style="width:100%; display: flex; justify-content: center; align-items: center;"> 
 
-&nbsp;
+##
 
 </div>
   </header>
@@ -66,6 +66,11 @@
   </section>
   <br><!--test-->
   <footer>
+      <div>
+          <span>
+              Tecnologies i use:
+          </span>
+      </div>
     <div style="display: flex;">
     <img style="heigth: 71px; width: 71px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/170px-HTML5_logo_and_wordmark.svg.png">&emsp;&emsp;&emsp;
       <img style="heigth: 51px; width: 51px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png">&emsp;&emsp;&emsp;
@@ -77,11 +82,11 @@
         <img style="heigth: 71px; width: 71px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/250px-Angular_full_color_logo.svg.png">&emsp;
         <img style="heigth: 51px; width: 51px; margin-top: 7px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Svelte_Logo.svg/1200px-Svelte_Logo.svg.png">
         </div>
-    <br><!--line-->
-
-####
-    
+    <br>
 </footer>
     <br>
+
+##
+    
 </body>
 </html>
