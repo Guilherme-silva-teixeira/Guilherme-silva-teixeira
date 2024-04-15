@@ -69,7 +69,7 @@
   <footer>
       <div>
           <span>
-                  #Tecnologies i use:
+                  # Tecnologies i use:
           </span>
           <br><br>
       </div>
