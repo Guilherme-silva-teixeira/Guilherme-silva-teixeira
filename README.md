@@ -48,9 +48,12 @@
   </header>
   <section>
  <div style="border: 1px solid #fff; border-radius: 7px; background: #111;">
+<div class="center" style="display: flex; justify-content: center; align-items: center;">
      
- ## Main statitcs
-     
+## Main statitcs:
+
+</div>
+
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Guilherme-Silva-Teixeira&bg_color=000000&color=ffffff&line=9c9c9c&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <center>
 <a href="https://github.com/guilherme-silva-teixeira/github-readme-stats">
@@ -69,7 +72,7 @@
       <div>
           <span>
               
-## Tecnologies i use
+## Tecnologies i use:
 </span>
           <br><br>
       </div>
