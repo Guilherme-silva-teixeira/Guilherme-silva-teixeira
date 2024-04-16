@@ -1,41 +1,6 @@
-<!--<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-    <style>
-        body {
-            background: #111;
-        }
-        header, footer {
-            width: 100%;
-            display: flex;
-            justify-content: center;
-            align-items: center;
-        }
-        section {
-            border: 1px solid #fff;
-            border-radius: 7px;
-            background: #111;
-            padding: 20px;
-            margin-top: 20px;
-        }
-        img {
-            height: auto; /* Removido height e width fixos */
-            width: auto;
-            max-height: 100px; /* Tamanho máximo ajustável */
-            max-width: 100%;
-            margin-right: 10px; /* Espaçamento entre as imagens */
-        }
-        .logo-java {
-            max-height: 100px;
-            max-width: 100%;
-        }
-    </style>
-</head>
--->
-<body style="background: #111;">
+<!--styles de background-->
+
+<body>
   <header>
     <div style="width:100%; display: flex; justify-content: center; align-items: center;"> 
       
