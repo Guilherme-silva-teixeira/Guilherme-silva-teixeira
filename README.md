@@ -28,7 +28,7 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=guilherme-silva-teixeira&layout=compact&langs_count=8&card_width=320&theme=dark" />
 </a>
   
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=guilherme-silva-teixeira)](https://git.io/streak-stats)
 </center>
 <br>
  </div>
