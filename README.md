@@ -42,8 +42,8 @@
           <span>
               
 ## Technologies I'm studying:
+<div style="height: 75px; display: flex; justify-content: center; align-items: center;"><h1 style=" position: absolute;margin-bottom: 13px;"><img style="height: 61px; width: 61px; margin-top: 17px; margin-right: 10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png">C++</h1></div>
 
-<div style="display: flex; align-items: center;"><h1><img style="heigth: 61px; width: 61px; margin-top: 7px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png">&emsp;&emsp;C++</h1></div>
 
 ## Technologies that I already master or that I am currently working on:
       
