@@ -30,7 +30,7 @@
   <br>
 <br>
   
-  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[![GitHub Streak](https://streak-stats.demolab.com/?user=guilherme-silva-teixeira&theme=Dark)](https://git.io/streak-stats)
+  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[![GitHub Streak](https://streak-stats.demolab.com?user=DellyPlays&theme=dark)](https://git.io/streak-stats)
 </center>
 <br>
  </div>
