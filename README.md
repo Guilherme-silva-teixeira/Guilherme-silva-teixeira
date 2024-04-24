@@ -4,11 +4,9 @@
 <!--stats do profile-->
 <br><br><br>
   <!--status principal do portifólio-->
-  <div>
-    <center>
+  <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Guilherme-silva-teixeira&show_icons=true&theme=shadow_red"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-silva-teixeira&layout=compact&langs_count=8&theme=shadow_red">
-  </center>
     </div>
     <!--separa a imagem de outra imagem-->
 <img src="https://capsule-render.vercel.app/api?type=waving&height=121&color=a00&section=footer">
