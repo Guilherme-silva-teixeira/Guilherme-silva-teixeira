@@ -1,5 +1,5 @@
 <!--styles de background-->
-
+<html>
 <body>
   <header>
     <div style="width:100%; display: flex; justify-content: center; align-items: center;"> 
@@ -42,8 +42,9 @@
           <span>
               
 ## Technologies I'm studying:
-<div style="height: 75px; display: flex; justify-content: center; align-items: center;"><h1 style=" position: absolute;margin-bottom: 13px;"><img style="height: 61px; width: 61px; margin-top: 17px; margin-right: 10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png">C++</h1></div>
 
+<img style="background-color: #fff;"
+src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeCAYAAAA7MK6iAAAAAXNSR0IArs4c6QAAAWdJREFUSEvtlYFNw0AMRf0ngU4C3YROAkxCmYQyCWUSox/Z6LB6tgMSFaInRZGS3D37+9uBnGnhTFy5gH9N+b8htapemyR3dr8SkVcROQI4rJGrnbGq3orIS3L4UUSeATx0AmiBVZVAgsdFEK/4/LEDL8EBShAP3nsEJj/h9yLipdgD2GWZp+Ag7wHAdnaYBUC41383Bhj3VWC1DTTPpqqdwVkWZp7umYJVlZE/GSyNfgwoqLSdub0L3gBgfctlWb/Zh1OjZWBmu9QLQGnCkLV3wdQXGdg3t+obwMyYdZ66OwNzENCl38nYTTn1RgYeJ9XUJLHowZRTb2RgStVqjYnMqVJVH48tlU4jczMN6SM0Val0q6p+uttm85cfwTAyvecpQDrlFt9UjWkHM/PFaMNiX/tsHp+X0BZ4+Bk4/BSMnzEQurj1Xy4zDsYh1K8be/du0raAft4qcFWWNe8v4DVq/ejb/yf1B6rFnB86p5nMAAAAAElFTkSuQmCC"/>
 
 ## Technologies that I already master or that I am currently working on:
       
