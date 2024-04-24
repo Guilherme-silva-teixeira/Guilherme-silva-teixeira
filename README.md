@@ -44,7 +44,7 @@
 ## Tecnologies i use:
 </span>
           <br><br>
-      </div>
+      </div><!--
     <div style="display: flex;">
     <img style="heigth: 71px; width: 71px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/170px-HTML5_logo_and_wordmark.svg.png">&emsp;&emsp;&emsp;
       <img style="heigth: 51px; width: 51px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png">&emsp;&emsp;&emsp;
@@ -55,7 +55,7 @@
       <img style="heigth: 61px; width: 61px; margin-top: 7px;" src="https://media.licdn.com/dms/image/D4D12AQEfpm1hZiEN6Q/article-cover_image-shrink_720_1280/0/1673639331003?e=2147483647&v=beta&t=y-2SK0tAKIhMI4adSJ-kODboj4OUznZgWe95jOdHoww">&emsp;
         <img style="heigth: 71px; width: 71px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/250px-Angular_full_color_logo.svg.png">&emsp;
         <img style="heigth: 51px; width: 51px; margin-top: 7px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Svelte_Logo.svg/1200px-Svelte_Logo.svg.png">
-        </div>
+        --></div>
 </footer>
 
 ##
