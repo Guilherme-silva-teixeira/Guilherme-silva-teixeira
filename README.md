@@ -2,7 +2,10 @@
 <html>
 <body>
   <header>
-    <div style="width:100%; display: flex; justify-content: center; align-items: center;"> 
+<!--importar o swift-->
+    
+import swift from 'programming-languages-logos/src/swift/swift.svg'
+<div style="width:100%; display: flex; justify-content: center; align-items: center;"> 
       
   &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &ensp; [![Typing SVG](https://readme-typing-svg.demolab.com?font=&weight=100&size=41&pause=1000&color=F7F7F7&center=true&vCenter=true&random=false&width=435&lines=Hello+world)](https://git.io/typing-svg)
 
