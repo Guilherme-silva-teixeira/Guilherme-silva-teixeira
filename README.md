@@ -7,7 +7,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Guilherme-silva-teixeira&show_icons=true&theme=shadow_red" />
   <!-- separador de img e svg-->
   
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-silva-teixeira&layout=compact&language_count=8)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-silva-teixeira&layout=compact&langs_count=8&theme=shadow_red)
 
 <!--separa a imagem de outra imagem-->
 <img src="https://capsule-render.vercel.app/api?type=waving&height=121&color=a00&section=footer">
