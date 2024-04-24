@@ -11,6 +11,10 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Guilherme-silva-teixeira&show_icons=true&theme=shadow_red&hide_border=true"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-silva-teixeira&layout=compact&langs_count=8&theme=shadow_red&hide_border=true">
     </div>
+    <!--grafico das contribuições-->
+    <div align="center">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=Guilherme-silva-teixeira&bg_color=000000&color=b71a1a&line=500101&point=ff0000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph">
+    </div>
     <!--separa a imagem de outra imagem-->
 <img src="https://capsule-render.vercel.app/api?type=waving&height=121&color=a00&section=footer">
 <!--fim do código-->
