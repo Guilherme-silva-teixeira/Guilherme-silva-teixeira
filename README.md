@@ -33,6 +33,8 @@
       <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
       <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
       <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+<br><br>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=&weight=100&size=27&pause=1000&color=ffffff&center=true&vCenter=true&random=true&width=435&lines=Frameworks and tools:" alt="Typing SVG" /></a>
       </div>
       <div align="center">
         <img src="https://img.shields.io/github/followers/Guilherme-silva-teixeira.svg?style=social&label=Follow&maxAge=2592000">
