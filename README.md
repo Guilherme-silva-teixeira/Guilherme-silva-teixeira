@@ -25,9 +25,10 @@
     <div align="center">
       <br>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=&weight=100&size=27&pause=1000&color=990000&center=true&vCenter=true&random=true&width=435&lines=Languages+i+use:" alt="Typing SVG" /></a>
-      <img url="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
-      <img url="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-      <img url="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
+      <br>
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
+      <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+      <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
       <img url="">
       <img url="">
       <img url="">
