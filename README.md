@@ -1,5 +1,6 @@
 <!--styles do inicio do header: borda e título-->
 <!--div que centraliza o título-->
+<div position="absolute" height="100px" width="1px" background="#900"></div>
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=&weight=100&size=37&pause=1000&color=990000&center=true&vCenter=true&random=true&width=435&lines=Hello+world" alt="Typing SVG" /></a>
 </div>
