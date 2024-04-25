@@ -15,12 +15,14 @@
     <div align="center">
       <img src="https://github-readme-activity-graph.vercel.app/graph?username=Guilherme-silva-teixeira&bg_color=000000&color=b71a1a&line=500101&point=ff0000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph">
       <!--streak-->
+      <br>
       <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Guilherme-silva-teixeira&theme=shadow-red&hide_border=true&card_width=700" alt="GitHub Streak" /></a>
   </div>
     <!--separa a imagem de outra imagem-->
     <!--linguagens-->
     <br>
     <div align="center">
+      <br>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=&weight=100&size=27&pause=1000&color=990000&center=true&vCenter=true&random=true&width=435&lines=Languages+i+use:" alt="Typing SVG" /></a>
       <div>
         <img style="height: 77px; width: 77px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png">
