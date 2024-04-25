@@ -14,6 +14,9 @@
     <!--grafico das contribuições-->
     <div align="center">
       <img src="https://github-readme-activity-graph.vercel.app/graph?username=Guilherme-silva-teixeira&bg_color=000000&color=b71a1a&line=500101&point=ff0000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph">
+      <!--streak-->
+      [![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
+      <img src="https://streak-stats.demolab.com/?user=Guilherme-silva-teixiera">
     </div>
     <!--separa a imagem de outra imagem-->
     <!--linguagens-->
