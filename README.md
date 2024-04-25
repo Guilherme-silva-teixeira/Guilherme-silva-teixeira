@@ -1,5 +1,4 @@
 <!--styles do inicio do header: borda e título-->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=121&color=a00">
 <!--div que centraliza o título-->
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=&weight=100&size=37&pause=1000&color=990000&center=true&vCenter=true&random=true&width=435&lines=Hello+world" alt="Typing SVG" /></a>
@@ -37,5 +36,4 @@
       <div align="center">
         <img src="https://img.shields.io/github/followers/Guilherme-silva-teixeira.svg?style=social&label=Follow&maxAge=2592000">
       </div>
-<img src="https://capsule-render.vercel.app/api?type=waving&height=121&color=a00&section=footer">
 <!--fim do código-->
