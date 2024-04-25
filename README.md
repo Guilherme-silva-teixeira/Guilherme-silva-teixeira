@@ -8,7 +8,7 @@
 <br><br><br>
   <!--status principal do portifólio-->
   <div align="center">
-    <div>I'm Guilherme and i'm 16 years old</div>
+    <div>Hello guys i'm Guilherme and that's is my github profile</div>
   <img src="https://github-readme-stats.vercel.app/api?username=Guilherme-silva-teixeira&show_icons=true&theme=dark&hide_border=true"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-silva-teixeira&layout=compact&langs_count=8&theme=dark&hide_border=true">
     </div>
