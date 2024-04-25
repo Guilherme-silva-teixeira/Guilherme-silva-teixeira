@@ -22,7 +22,10 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=&weight=100&size=27&pause=1000&color=990000&center=true&vCenter=true&random=true&width=435&lines=Languages+i+use:" alt="Typing SVG" /></a>
       <div>
         <img style="height: 77px; width: 77px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png">
+        <img style="height: 77px; width: 77px;" src="https://media.licdn.com/dms/image/D4D12AQEfpm1hZiEN6Q/article-cover_image-shrink_720_1280/0/1673639331003?e=2147483647&v=beta&t=y-2SK0tAKIhMI4adSJ-kODboj4OUznZgWe95jOdHoww">
       </div>
       </div>
+      <div align="center">
+        <img src="https://visitor-badge.glitch.me/badge?page_id=guilherme-silva-teixeira.visitor-badge"></div>
 <img src="https://capsule-render.vercel.app/api?type=waving&height=121&color=a00&section=footer">
 <!--fim do código-->
