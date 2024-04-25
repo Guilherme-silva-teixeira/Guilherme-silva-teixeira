@@ -25,6 +25,7 @@
         <img style="height: 77px; width: 77px;" src="https://media.licdn.com/dms/image/D4D12AQEfpm1hZiEN6Q/article-cover_image-shrink_720_1280/0/1673639331003?e=2147483647&v=beta&t=y-2SK0tAKIhMI4adSJ-kODboj4OUznZgWe95jOdHoww">
         <img style="height: 77px; widht: 77px;" src="https://blog.geekhunter.com.br/wp-content/uploads/2020/07/pngwing.com_.png">
         <img style="height: 77px; widht: 77px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png">
+        <img style="height: 77px; widht: 77px;" src="https://titrias.com/files/2022/04/typescript.png">
       </div>
       </div>
       <div align="center">
