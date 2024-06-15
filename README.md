@@ -6,3 +6,5 @@
 
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Guilherme-silva-teixeira&theme=gruvbox-duo&hide_border=true&card_width=877&bg_color=00000000" alt="GitHub Streak" /></a>
 </div>
+
+<div color="#ff0">test</div>
