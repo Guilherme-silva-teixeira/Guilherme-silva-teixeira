@@ -1,3 +1,5 @@
+![Metrics](https://metrics.lecoq.io/guilherme-silva-teixeira?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=America%2FSao_Paulo)
+
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=&weight=300&size=33&pause=1000&color=F7BE26&center=true&vCenter=true&random=false&width=435&lines=Hello+World;Ol%C3%A1+Mundo;Hola+Mundo;%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82%2C+%D0%BC%D0%B8%D1%80;%D9%85%D8%B1%D8%AD%D8%A8%D8%A7+%D8%A8%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85;%E4%BD%A0%E5%A5%BD%E4%B8%96%E7%95%8C;%CE%93%CE%B5%CE%B9%CE%AC+%CF%83%CE%BF%CF%85+%CE%9A%CF%8C%CF%83%CE%BC%CE%B5;%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%E4%B8%96%E7%95%8C" alt="Typing SVG" /></a>
   
