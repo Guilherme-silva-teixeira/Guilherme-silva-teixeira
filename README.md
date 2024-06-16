@@ -11,5 +11,6 @@
   <a href="https://www.sololearn.com/pt/profile/31040219"><img src="https://img.shields.io/badge/-Sololearn-3a464b?style=for-the-badge&logo=Sololearn&logoColor=white"><a>
     <a href="https://www.linkedin.com/in/guilherme-teixeira-858478304/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
     <a href="https://www.youtube.com/channel/UCWOBgxQx8JG5lKHXLPi3NXQ"><img src="https://img.shields.io/badge/YouTube_Gaming-FF0000?style=for-the-badge&logo=youtube-gaming&logoColor=white"></a>
+    <a href="https://www.duolingo.com/profile/xX_Guilherme_Xx"><img src="https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white"></a>
 </div>
 </div>
