@@ -9,5 +9,6 @@
 <div align="center"><img src="https://readme-typing-svg.demolab.com?font=&weight=300&size=27&pause=1000&color=F7BE26&center=true&vCenter=true&random=false&width=435&lines=More:" alt="Typing SVG" /></a>
 <br>
   <a href="https://www.sololearn.com/pt/profile/31040219"><img src="https://img.shields.io/badge/-Sololearn-3a464b?style=for-the-badge&logo=Sololearn&logoColor=white"><a>
+    <a href="https://www.linkedin.com/in/guilherme-teixeira-858478304/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
 </div>
