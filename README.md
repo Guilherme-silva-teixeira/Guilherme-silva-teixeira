@@ -5,4 +5,9 @@
 ![Main stats](https://github-readme-stats.vercel.app/api?username=Guilherme-silva-teixeira&show_icons=true&bg_color=00000000&hide_border=true&theme=gruvbox)
 
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Guilherme-silva-teixeira&theme=gruvbox-duo&hide_border=true&card_width=877&bg_color=00000000" alt="GitHub Streak" /></a>
+#
+<div align="center"><img src="https://readme-typing-svg.demolab.com?font=&weight=300&size=27&pause=1000&color=F7BE26&center=true&vCenter=true&random=false&width=435&lines=More:" alt="Typing SVG" /></a>
+<br>
+  <a><img src="https://img.shields.io/badge/-Sololearn-3a464b?style=for-the-badge&logo=Sololearn&logoColor=white"><a>
+</div>
 </div>
