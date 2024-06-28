@@ -13,5 +13,6 @@
     <a href="https://www.linkedin.com/in/guilherme-teixeira-858478304/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
     <a href="https://www.youtube.com/channel/UCWOBgxQx8JG5lKHXLPi3NXQ"><img src="https://img.shields.io/badge/YouTube_Gaming-FF0000?style=for-the-badge&logo=youtube-gaming&logoColor=white"></a>
     <a href="https://www.duolingo.com/profile/xX_Guilherme_Xx"><img src="https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white"></a>
+    <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeCAYAAAA7MK6iAAAAAXNSR0IArs4c6QAAANlJREFUSEvtl8kRwjAMRZ+gkdBJUgSe4UY6CydmQhGkE1IJYrIAWUgMxOCLfdb8J9mS/S14WuKJyyRYc/Yo0eLEVhSypRjqjMB6JGLNGRxAn7RMDGkXPgbnNTReXGlfoBTDxgbWNqAQQ7IkAT0Ro3UhICTdLe9VPBf4TQIBHLb60TehuV5ddZ+MVRinME5hnJpnzPV6+1n0CC5RDs74VzLZUd71po0ApGLInIEHQn1wY/QubczIoLlM4l9mb95zVRX9yN7awR14Y3FdmPpKZ665XJ6hTcvb3+kGbzDMHz8SnVkAAAAASUVORK5CYII="/>
 </div>
 </div>
