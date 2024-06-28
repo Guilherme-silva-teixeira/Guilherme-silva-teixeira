@@ -12,16 +12,16 @@
   </div>
   <div align="left">
 <br>
-  <a href="https://www.sololearn.com/pt/profile/31040219"><div>&emsp;&emsp;&emsp;<img src="/img/book-alt-regular-24.png"/></div></a>
+  <div>&emsp;&emsp;&emsp;<a href="https://www.sololearn.com/pt/profile/31040219"><img src="/img/book-alt-regular-24.png"/> Sololearn</div></a>
   <br>
     <br>
-    <a href="https://www.youtube.com/channel/UCWOBgxQx8JG5lKHXLPi3NXQ"><div>&emsp;&emsp;&emsp;<img src="/img/icons8-youtube-gaming-24.png"/></div></a>
+    <div>&emsp;&emsp;&emsp;<a href="https://www.youtube.com/channel/UCWOBgxQx8JG5lKHXLPi3NXQ"><img src="/img/icons8-youtube-gaming-24.png"/> My Gaming Channel</div></a>
   <br>
     <br>
-   <a href="https://www.duolingo.com/profile/xX_Guilherme_Xx"><div> &emsp;&emsp;&emsp;<img src="/img/icons8-logotipo-duolingo-24.png"></div></a>
+   <div> &emsp;&emsp;&emsp;<a href="https://www.duolingo.com/profile/xX_Guilherme_Xx"><img src="/img/icons8-logotipo-duolingo-24.png"> Duolingo</div></a>
   <br>
     <br>
-  <a href="https://www.linkedin.com/in/guilherme-teixeira-858478304/"><div>&emsp;&emsp;&emsp;<img src="/img/linkedin-logo-24.png"/></div></a>
+  <div>&emsp;&emsp;&emsp;<a href="https://www.linkedin.com/in/guilherme-teixeira-858478304/"><img src="/img/linkedin-logo-24.png"/> Linkedin</div></a>
   <br>
 </div>
   </div>
