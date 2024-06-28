@@ -12,17 +12,16 @@
   </div>
   <div align="left">
 <br>
-  <div>&emsp;&emsp;&emsp;<a href="https://www.sololearn.com/pt/profile/31040219"><img src="/img/book-alt-regular-24.png"/> Sololearn</div></a>
+  <div>&emsp;&emsp;&emsp;<a href="https://www.sololearn.com/pt/profile/31040219"><img src="/img/book-alt-regular-24.png"/></a> Sololearn</div>
   <br>
     <br>
-    <div>&emsp;&emsp;&emsp;<a href="https://www.youtube.com/channel/UCWOBgxQx8JG5lKHXLPi3NXQ"><img src="/img/icons8-youtube-gaming-24.png"/> My Gaming Channel</div></a>
+    <div>&emsp;&emsp;&emsp;<a href="https://www.youtube.com/channel/UCWOBgxQx8JG5lKHXLPi3NXQ"><img src="/img/icons8-youtube-gaming-24.png"/></a> My Gaming Channel</div>
   <br>
     <br>
-   <div> &emsp;&emsp;&emsp;<a href="https://www.duolingo.com/profile/xX_Guilherme_Xx"><img src="/img/icons8-logotipo-duolingo-24.png"> Duolingo</div></a>
+   <div> &emsp;&emsp;&emsp;<a href="https://www.duolingo.com/profile/xX_Guilherme_Xx"><img src="/img/icons8-logotipo-duolingo-24.png"></a> Duolingo</div>
   <br>
     <br>
-  <div>&emsp;&emsp;&emsp;<a href="https://www.linkedin.com/in/guilherme-teixeira-858478304/"><img src="/img/linkedin-logo-24.png"/> Linkedin</div></a>
+  <div>&emsp;&emsp;&emsp;<a href="https://www.linkedin.com/in/guilherme-teixeira-858478304/"><img src="/img/linkedin-logo-24.png"/></a> Linkedin</div>
   <br>
 </div>
   </div>
-  
