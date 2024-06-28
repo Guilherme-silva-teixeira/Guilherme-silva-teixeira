@@ -14,10 +14,13 @@
 <br>
   <div><img src="/img/book-alt-regular-24.png"/></div>
   <br>
+    <br>
   <div><img src="/img/icons8-youtube-gaming-24.png"/></div>
   <br>
+    <br>
   <div><img src="/img/icons8-logotipo-duolingo-24.png"></div>
   <br>
+    <br>
   <div><img src="/img/linkedin-logo-24.png"/></div>
   <br>
   <a href="https://www.sololearn.com/pt/profile/31040219"><img src="https://img.shields.io/badge/-Sololearn-3a464b?style=for-the-badge&logo=Sololearn&logoColor=white"><a>
