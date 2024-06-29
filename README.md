@@ -28,9 +28,4 @@
       </div>
 </div>
 
-<!--right-->
-<div>
-  <img src=""/>
-</div>
-
   </div>
