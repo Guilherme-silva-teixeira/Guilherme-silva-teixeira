@@ -26,9 +26,10 @@
   <div>&emsp;&emsp;&emsp;<a href="https://www.linkedin.com/in/guilherme-teixeira-858478304/"><img src="/img/linkedin-logo-24.png"/></a> Linkedin</div>
   <br>
       </div>
-</div>    
+</div>
+    
 #
-    <div align="center">
-      <img src="https://img.shields.io/github/followers/{username}.svg?style=social&label=Follow&maxAge=2592000"/>
+  <div align="center">
+      <img src="https://img.shields.io/github/followers/{guilherme-silva-teixeira}.svg?style=social&label=Follow&maxAge=2592000"/>
     </div>
   </div>
