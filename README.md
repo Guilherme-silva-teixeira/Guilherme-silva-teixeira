@@ -34,6 +34,8 @@
       this repository
     </p>
     <img src="https://img.shields.io/github/watchers/guilherme-silva-teixeira/guilherme-silva-teixeira.svg"/>
+    <img src="https://img.shields.io/github/stars/guilherme-silva-teixeira/guilherme-silva-teixeira.svg"/>
+    <img src="https://img.shields.io/github/forks/guilherme-silva-teixeira/guilherme-silva-teixeira.svg"/>
     <br>
     <br>
       <img src="https://img.shields.io/github/followers/guilherme-silva-teixeira.svg?style=social&label=Follow&maxAge=2592000"/>
