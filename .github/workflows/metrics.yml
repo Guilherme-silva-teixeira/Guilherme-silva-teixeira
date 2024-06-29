@@ -17,3 +17,4 @@ jobs:
       - uses: guilherme-silva-teixeira/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
+          config_timezone: brazil/sao-paulo
