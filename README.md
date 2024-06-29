@@ -30,7 +30,8 @@
 
 <!--right-->
 <div>
-  <img src="/imgdesktop-wallpaper-37-programmer-code-backgrounds-1600x1200-for-your-mobile-tablet-computer-programmer.jpg"/>
+  flex right
+  <img src=""/>
 </div>
 
   </div>
