@@ -14,7 +14,7 @@
     <div><!--left-->
     <div>
 <br>
-  <div>&emsp;&emsp;&emsp;<a href="https://www.sololearn.com/pt/profile/31040219"><img src="/img/book-alt-regular-24.png"/></a> Sololearn</div>
+  <div color="yellow">&emsp;&emsp;&emsp;<a href="https://www.sololearn.com/pt/profile/31040219"><img src="/img/book-alt-regular-24.png"/></a> Sololearn</div>
   <br>
     <br>
     <div>&emsp;&emsp;&emsp;<a href="https://www.youtube.com/channel/UCWOBgxQx8JG5lKHXLPi3NXQ"><img src="/img/icons8-youtube-gaming-24.png"/></a> My Gaming Channel</div>
