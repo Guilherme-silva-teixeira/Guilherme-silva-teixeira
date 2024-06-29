@@ -30,7 +30,6 @@
 
 <!--right-->
 <div>
-  flex right
   <img src=""/>
 </div>
 
