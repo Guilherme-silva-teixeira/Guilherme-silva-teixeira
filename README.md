@@ -24,6 +24,5 @@
   <div>&emsp;&emsp;&emsp;<a href="https://www.linkedin.com/in/guilherme-teixeira-858478304/"><img src="/img/linkedin-logo-24.png"/></a> Linkedin</div>
   <br>
 </div>
-  </div>![Metrics](https://metrics.lecoq.io/Guilherme-silva-teixeira?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=America%2FSao_Paulo)
-
-  
+  </div>
+  ![Metrics](https://metrics.lecoq.io/Guilherme-silva-teixeira?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=America%2FSao_Paulo)
