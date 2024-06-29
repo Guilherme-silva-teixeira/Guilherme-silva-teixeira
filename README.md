@@ -10,7 +10,7 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=&weight=300&size=27&pause=1000&color=F7BE26&center=true&vCenter=true&random=false&width=435&lines=More:" alt="Typing SVG" /></a>
   </div>
-  <div align="left">
+  <div align="left" style="display: flex; justfy-content: space-between; flex-direction: column;"><!--main box-->
     <div><!--left-->
     <div>
 <br>
