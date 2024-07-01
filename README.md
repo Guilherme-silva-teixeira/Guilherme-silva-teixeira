@@ -5,7 +5,8 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-silva-teixeira&layout=compact&theme=gruvbox&hide_border=true&langs_count=8&bg_color=00000000)
 ![Main stats](https://github-readme-stats.vercel.app/api?username=Guilherme-silva-teixeira&show_icons=true&bg_color=00000000&hide_border=true&theme=gruvbox)
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Guilherme-silva-teixeira&theme=gruvbox-duo&hide_border=true&card_width=877&bg_color=00000000" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Guilherme-silva-teixeira&theme=gruvbox-duo&hide_border=true&card_width=877&bg_color=00000000" alt="GitHub Streak"/></a>
+
 #
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=&weight=300&size=27&pause=1000&color=F7BE26&center=true&vCenter=true&random=false&width=435&lines=More:" alt="Typing SVG" /></a>
@@ -20,15 +21,15 @@
     <div>&emsp;&emsp;&emsp;<a href="https://www.youtube.com/channel/UCWOBgxQx8JG5lKHXLPi3NXQ"><img src="/img/icons8-youtube-gaming-24.png"/><img src="/img/ytGaming.png"/></a></div>
   <br>
     <br>
-   <div> &emsp;&emsp;&emsp;<a href="https://www.duolingo.com/profile/xX_Guilherme_Xx"><img src="/img/icons8-logotipo-duolingo-24.png"><img src="/img/Duolingo.png"/></a></div>
+   <div> &emsp;&emsp;&emsp;<a href="https://www.duolingo.com/profile/xX_Guilherme_Xx"><img src="/img/icons8-logotipo-duolingo-24.png"><img src="/img/duolingo.png"/></a></div>
   <br>
     <br>
-  <div>&emsp;&emsp;&emsp;<a href="https://www.linkedin.com/in/guilherme-teixeira-858478304/"><img src="/img/linkedin-logo-24.png"/><img src="/img/Linkedin.png"/></a></div>
+  <div>&emsp;&emsp;&emsp;<a href="https://www.linkedin.com/in/guilherme-teixeira-858478304/"><img src="/img/linkedin-logo-24.png"/><img src="/img/linkedin.png"/></a></div>
   <br>
       </div>
 </div>
 
-  <img url="Github-metrics.svg"/>
+  <img src="Github-metrics.svg"/>
     
 #
   <div align="center">
