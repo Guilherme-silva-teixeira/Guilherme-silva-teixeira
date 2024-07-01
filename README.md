@@ -15,6 +15,7 @@
     <div><!--left-->
     <div>
 <br>
+      <div align="center">
   <div color="yellow">&emsp;&emsp;&emsp;<a href="https://www.sololearn.com/pt/profile/31040219"><img src="/img/book-alt-regular-24.png"/><img src="/img/Sololearn.png"/></a></div>
   <br>
     <br>
@@ -26,6 +27,7 @@
     <br>
   <div>&emsp;&emsp;&emsp;<a href="https://www.linkedin.com/in/guilherme-teixeira-858478304/"><img src="/img/linkedin-logo-24.png"/><img src="/img/linkedin.png"/></a></div>
   <br>
+        </div>
       </div>
 </div>
 
