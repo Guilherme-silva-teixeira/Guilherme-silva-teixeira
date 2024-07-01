@@ -14,21 +14,21 @@
     <div><!--left-->
     <div>
 <br>
-  <div color="yellow">&emsp;&emsp;&emsp;<a href="https://www.sololearn.com/pt/profile/31040219"><img src="/img/book-alt-regular-24.png"/><img src="Sololearn.png"/></a></div>
+  <div color="yellow">&emsp;&emsp;&emsp;<a href="https://www.sololearn.com/pt/profile/31040219"><img src="/img/book-alt-regular-24.png"/><img url="Sololearn.png"/></a></div>
   <br>
     <br>
-    <div>&emsp;&emsp;&emsp;<a href="https://www.youtube.com/channel/UCWOBgxQx8JG5lKHXLPi3NXQ"><img src="/img/icons8-youtube-gaming-24.png"/></a> My Gaming Channel</div>
+    <div>&emsp;&emsp;&emsp;<a href="https://www.youtube.com/channel/UCWOBgxQx8JG5lKHXLPi3NXQ"><img src="/img/icons8-youtube-gaming-24.png"/><img url="ytGaming.png"/></a></div>
   <br>
     <br>
-   <div> &emsp;&emsp;&emsp;<a href="https://www.duolingo.com/profile/xX_Guilherme_Xx"><img src="/img/icons8-logotipo-duolingo-24.png"></a> Duolingo</div>
+   <div> &emsp;&emsp;&emsp;<a href="https://www.duolingo.com/profile/xX_Guilherme_Xx"><img src="/img/icons8-logotipo-duolingo-24.png"><img url="Duolingo.png"/></a></div>
   <br>
     <br>
-  <div>&emsp;&emsp;&emsp;<a href="https://www.linkedin.com/in/guilherme-teixeira-858478304/"><img src="/img/linkedin-logo-24.png"/></a> Linkedin</div>
+  <div>&emsp;&emsp;&emsp;<a href="https://www.linkedin.com/in/guilherme-teixeira-858478304/"><img src="/img/linkedin-logo-24.png"/><img url="Linkedin.png"/></a></div>
   <br>
       </div>
 </div>
 
-  <img src="Github-metrics.svg"/>
+  <img url="Github-metrics.svg"/>
     
 #
   <div align="center">
