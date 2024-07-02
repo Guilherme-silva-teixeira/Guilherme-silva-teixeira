@@ -15,7 +15,7 @@
     <div><!--left-->
     <div>
 <br>
-      <div align="center">
+      <div align="left">
   <div color="yellow">&emsp;&emsp;&emsp;<a href="https://www.sololearn.com/pt/profile/31040219"><img src="/img/book-alt-regular-24.png"/><img src="/img/Sololearn.png"/></a></div>
   <br>
     <br>
