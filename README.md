@@ -30,8 +30,6 @@
         </div>
       </div>
 </div>
-
-  <img src="Github-metrics.svg"/>
     
 #
   <div align="center">
