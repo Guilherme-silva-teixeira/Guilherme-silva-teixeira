@@ -36,7 +36,7 @@
 #
   <div align="center">
     <p>
-      ###
+#
     </p>
     <img src="https://img.shields.io/github/watchers/guilherme-silva-teixeira/guilherme-silva-teixeira.svg"/>
     <img src="https://img.shields.io/github/stars/guilherme-silva-teixeira/guilherme-silva-teixeira.svg"/>
