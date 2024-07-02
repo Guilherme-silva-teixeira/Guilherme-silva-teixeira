@@ -8,11 +8,11 @@
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Guilherme-silva-teixeira&theme=gruvbox-duo&hide_border=true&card_width=877&bg_color=00000000" alt="GitHub Streak"/></a>
 
 #
-<div align="center">
+<!--<div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=&weight=300&size=27&pause=1000&color=F7BE26&center=true&vCenter=true&random=false&width=435&lines=More:" alt="Typing SVG" /></a>
   </div>
-  <div align="left" id="flex-box"><!--main box-->
-    <div><!--left-->
+  <div align="left" id="flex-box"><!--main box
+    <div><!--left
     <div>
 <br>
       <div align="left">
@@ -42,4 +42,4 @@
     <br>
       <img src="https://img.shields.io/github/followers/guilherme-silva-teixeira.svg?style=social&label=Follow&maxAge=2592000"/>
     </div>
-  </div>
+  </div>-->
