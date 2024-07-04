@@ -13,7 +13,7 @@
   ![Metrics](./github-metrics.svg)
 
 </div>
-#
+
 <!--
 error
 <div align="center">
