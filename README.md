@@ -14,18 +14,19 @@
 
 </div>
 #
+<!--
+error
 <div align="center">
   <img height="177px" src="/img/bezier.png">
   &emsp;
   <img height="177px" src="/img/bezier.png">
 </div>
-
 <div align="center">
   <img height="177px" src="/img/bezier.png">
   &emsp;
   <img height="177px" src="/img/bezier.png">
 </div>
-
+-->
 <!--<div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=&weight=300&size=27&pause=1000&color=F7BE26&center=true&vCenter=true&random=false&width=435&lines=More:" alt="Typing SVG" /></a>
   </div>
