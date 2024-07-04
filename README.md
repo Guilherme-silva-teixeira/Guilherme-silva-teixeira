@@ -10,7 +10,8 @@
 #
 
 <div align="center">
-  <img height="77px" src="/img/bezier.png">
+  <img height="177px" src="/img/bezier.png">
+  <img height="177px
 </div>
 
 <!--<div align="center">
