@@ -8,6 +8,11 @@
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Guilherme-silva-teixeira&theme=gruvbox-duo&hide_border=true&card_width=877&bg_color=00000000" alt="GitHub Streak"/></a>
 
 #
+
+<div align="center">
+  <img height="77px" src="/img/bezier.png">
+</div>
+
 <!--<div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=&weight=300&size=27&pause=1000&color=F7BE26&center=true&vCenter=true&random=false&width=435&lines=More:" alt="Typing SVG" /></a>
   </div>
