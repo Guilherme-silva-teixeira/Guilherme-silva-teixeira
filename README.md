@@ -9,6 +9,9 @@
 
 #
 
+![Metrics](./github-metrics.svg)
+
+#
 <div align="center">
   <img height="177px" src="/img/bezier.png">
   &emsp;
