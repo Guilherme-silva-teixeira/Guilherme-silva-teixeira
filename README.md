@@ -11,6 +11,13 @@
 
 <div align="center">
   <img height="177px" src="/img/bezier.png">
+  &emsp;
+  <img height="177px" src="/img/bezier.png">
+</div>
+
+<div align="center">
+  <img height="177px" src="/img/bezier.png">
+  &emsp;
   <img height="177px" src="/img/bezier.png">
 </div>
 
