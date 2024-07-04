@@ -11,7 +11,7 @@
 
 <div align="center">
   <img height="177px" src="/img/bezier.png">
-  <img height="177px
+  <img height="177px" src="/img/bezier.png">
 </div>
 
 <!--<div align="center">
