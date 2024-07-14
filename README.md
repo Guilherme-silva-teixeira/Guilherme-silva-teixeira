@@ -27,13 +27,13 @@
       </tr>
      <tbody>
        <tr>
-         <td style="display: flex; align-items: center;" height="27px"><img height="27px" src="https://github.com/user-attachments/assets/12841c49-b7cf-4617-a39b-7a50a4b6c888"/>C++</td> 
-         <td><img height="27px" src="https://github.com/user-attachments/assets/ede59403-7bd6-47df-9aeb-645a6f90e017"/>Java</td>
+         <td style="display: flex; align-items: center;" height="27px"><img height="27px" src="https://github.com/user-attachments/assets/12841c49-b7cf-4617-a39b-7a50a4b6c888"/> &emsp;C++</td> 
+         <td><img height="27px" src="https://github.com/user-attachments/assets/ede59403-7bd6-47df-9aeb-645a6f90e017"/>&emsp;Java</td>
          <td></td>
          <td></td>
        </tr>
        <tr>
-         <td><img height="27px" src="https://github.com/user-attachments/assets/dccc4551-9b9e-43a5-a654-73f7b322b41b"/> Javascript</td>
+         <td><img height="27px" src="https://github.com/user-attachments/assets/dccc4551-9b9e-43a5-a654-73f7b322b41b"/>&emsp; Javascript</td>
          <td>C</td>
          <td></td>
          <td></td>
