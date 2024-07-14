@@ -28,7 +28,7 @@
      <tbody>
        <tr>
          <td style="display: flex; align-items: center;" height="27px"><img height="27px" src="https://github.com/user-attachments/assets/12841c49-b7cf-4617-a39b-7a50a4b6c888"/>C++</td> 
-         <td><img/>Java</td>
+         <td><img height="27px" src="https://github.com/user-attachments/assets/ede59403-7bd6-47df-9aeb-645a6f90e017"/>Java</td>
          <td></td>
          <td></td>
        </tr>
