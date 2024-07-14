@@ -25,7 +25,7 @@
         <th></th>
         <th></th>
       </tr>
-     <thead>
+     <tbody>
        <tr>
          <td>C++</td>
          <td></td>
@@ -39,7 +39,7 @@
          <td></td>
       </tr>
 
-</thead>
+</tbody>
 
    </table>
 
