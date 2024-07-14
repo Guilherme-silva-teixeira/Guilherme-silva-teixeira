@@ -40,7 +40,7 @@
       </tr>
       <tr>
         <td></td>
-        <td><img src="https://github.com/user-attachments/assets/66e06b69-5ba5-4a91-b7e9-10f8bc63fbd5"/>&emsp;C#</td>
+        <td><img height="27px" src="https://github.com/user-attachments/assets/66e06b69-5ba5-4a91-b7e9-10f8bc63fbd5"/>&emsp;C#</td>
       </tr>
 
 </tbody>
