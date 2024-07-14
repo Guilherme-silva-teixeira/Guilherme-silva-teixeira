@@ -27,10 +27,7 @@
       </tr>
      <tbody>
        <tr>
-         <td>
-           
-  ![image](https://github.com/user-attachments/assets/12841c49-b7cf-4617-a39b-7a50a4b6c888)
-        C++</td> 
+         <td style="display: flex; align-items: center;" height="27px"><img height="27px" src="https://github.com/user-attachments/assets/12841c49-b7cf-4617-a39b-7a50a4b6c888"/>C++</td> 
          <td></td>
          <td></td>
          <td></td>
