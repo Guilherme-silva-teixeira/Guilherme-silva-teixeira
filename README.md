@@ -33,7 +33,7 @@
          <td></td>
        </tr>
        <tr>
-         <td>Javascript</td>
+         <td><img height="27px" src="https://github.com/user-attachments/assets/dccc4551-9b9e-43a5-a654-73f7b322b41b"/> Javascript</td>
          <td></td>
          <td></td>
          <td></td>
