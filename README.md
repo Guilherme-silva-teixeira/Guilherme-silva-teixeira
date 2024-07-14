@@ -21,7 +21,7 @@
    <table>
      <tr>
         <th>Now Studyng</th>
-        <th>Other knowedges</th>
+        <th>Other knowledges</th>
         <th></th>
         <th></th>
       </tr>
