@@ -14,7 +14,6 @@
 
 <!--  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-silva-teixeira&layout=compact&theme=gruvbox&hide_border=true&langs_count=8&bg_color=00000000)
   -->
-
   
 
 </div>
@@ -87,7 +86,6 @@ error
       </div>
 </div>
     
-
   <div align="center">
     <p>
     </p>
@@ -98,4 +96,4 @@ error
     <br>
       <img src="https://img.shields.io/github/followers/guilherme-silva-teixeira.svg?style=social&label=Follow&maxAge=2592000"/>
     </div>
-  </div>-->
+  </div>
