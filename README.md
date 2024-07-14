@@ -34,7 +34,7 @@
        </tr>
        <tr>
          <td><img height="27px" src="https://github.com/user-attachments/assets/dccc4551-9b9e-43a5-a654-73f7b322b41b"/>&emsp; Javascript</td>
-         <td><img height="27px" src="https://github.com/user-attachments/assets/eeab83ff-69da-4e06-88e8-5954567ceb26"/>&emsp;C</td>
+         <td><img height="27px" src="https://github.com/user-attachments/assets/b397356c-3607-4b46-a9c3-9dbab92508b7"/>&emsp;C</td>
          <td></td>
          <td></td>
       </tr>
