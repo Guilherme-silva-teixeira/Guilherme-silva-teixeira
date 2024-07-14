@@ -43,7 +43,7 @@
     </tbody>
    </table>
 
-<div align="left">
+<div align="center">
   
   ![Metrics](./github-metrics.svg)
 
