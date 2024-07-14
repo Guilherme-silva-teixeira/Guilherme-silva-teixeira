@@ -20,7 +20,7 @@
 
    <table>
       <thead><tr>
-        <th></th>
+        <th>Now Studyng:</th>
         <th></th>
         <th></th>
         <th></th>
@@ -28,13 +28,13 @@
       </thead>
     <tbody>
        <tr>
-         <td></td>
+         <td>C++</td>
          <td></td>
          <td></td>
          <td></td>
        </tr>
        <tr>
-         <td></td>
+         <td>Javascript</td>
          <td></td>
          <td></td>
          <td></td>
