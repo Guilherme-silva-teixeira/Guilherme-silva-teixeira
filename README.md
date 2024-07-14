@@ -19,14 +19,13 @@
 </div>
 
    <table>
-      <thead><tr>
+     <tr>
         <th>Now Studyng:</th>
         <th></th>
         <th></th>
         <th></th>
       </tr>
-      </thead>
-    <tbody>
+     <thead>
        <tr>
          <td>C++</td>
          <td></td>
@@ -39,7 +38,9 @@
          <td></td>
          <td></td>
       </tr>
-    </tbody>
+
+</thead>
+
    </table>
 
 <div align="center">
@@ -85,6 +86,7 @@ error
         </div>
       </div>
 </div>
+
     
   <div align="center">
     <p>
