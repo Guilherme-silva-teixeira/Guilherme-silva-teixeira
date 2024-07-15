@@ -20,7 +20,7 @@
 
    <table>
      <tr>
-        <th>Now Studyng</th>
+        <th>Now Studying</th>
         <th>Other knowledges</th>
         <th></th>
         <th></th>
