@@ -22,8 +22,8 @@
      <tr>
         <th>Now Studying</th>
         <th>Other knowledges</th>
-        <th></th>
-        <th></th>
+        <th>UI</th>
+        <th>Server</th>
       </tr>
      <tbody>
        <tr>
