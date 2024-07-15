@@ -30,7 +30,7 @@
          <td style="display: flex; align-items: center;" height="27px"><img height="27px" src="https://github.com/user-attachments/assets/12841c49-b7cf-4617-a39b-7a50a4b6c888"/> &emsp;C++</td> 
          <td><img height="27px" src="https://github.com/user-attachments/assets/ede59403-7bd6-47df-9aeb-645a6f90e017"/>&emsp;Java</td>
          <td></td>
-         <td></td>
+         <td><img height="27px" src="https://github.com/user-attachments/assets/7c5a13dd-4b7c-4b68-89e1-44b5b034878f"/>&emsp;Docker</td>
        </tr>
        <tr>
          <td><img height="27px" src="https://github.com/user-attachments/assets/dccc4551-9b9e-43a5-a654-73f7b322b41b"/>&emsp; Javascript</td>
