@@ -36,7 +36,6 @@
        <tr>
          <td><img height="27px" src="https://github.com/user-attachments/assets/dccc4551-9b9e-43a5-a654-73f7b322b41b"/>&emsp; Javascript</td>
          <td><img height="27px" src="https://github.com/user-attachments/assets/f4d7a674-5530-4cbf-a590-d324049fcee9"/>&emsp;C</td>
-         <td></td>
          <td><img height="27px" src="https://github.com/user-attachments/assets/7e1eeb1f-7125-4e8a-a185-a8030b3f6e23"/>&emsp;PHP</td>
       </tr>
       <tr>
