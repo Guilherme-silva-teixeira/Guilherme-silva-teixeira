@@ -24,6 +24,7 @@
         <th>Other knowledges</th>
         <th>UI</th>
         <th>Server</th>
+       <th>DS/Math</th>
       </tr>
      <tbody>
        <tr>
