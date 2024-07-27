@@ -106,3 +106,6 @@ error
       <img src="https://img.shields.io/github/followers/guilherme-silva-teixeira.svg?style=social&label=Follow&maxAge=2592000"/>
     </div>
   </div>
+
+
+![](https://komarev.com/ghpvc/?username=guilherme-silva-teixeira&color=red&abbreviated=true)
