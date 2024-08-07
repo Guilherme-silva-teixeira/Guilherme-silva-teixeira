@@ -8,7 +8,10 @@
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Guilherme-silva-teixeira&theme=gruvbox-duo&hide_border=true&card_width=877&bg_color=00000000" alt="GitHub Streak"/></a>
 
 #
-
+<!--me at brainrot skibdi sigma Ohio gyat-->
+<!--bruh lol 2024-->
+<!--me at code-->
+<!--please star this repo, please-->
 <div>
 <div align="right">
 
