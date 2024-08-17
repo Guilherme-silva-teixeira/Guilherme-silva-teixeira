@@ -35,6 +35,7 @@
          <td><img height="27px" src="https://github.com/user-attachments/assets/ede59403-7bd6-47df-9aeb-645a6f90e017"/>&emsp;Java</td>
          <td><img height="27px" radius="7px" src="https://github.com/user-attachments/assets/fc56a447-787c-4185-834e-7cb710a7bc04"/>&emsp;Markdown</td>
          <td><img height="27px" src="https://github.com/user-attachments/assets/7c5a13dd-4b7c-4b68-89e1-44b5b034878f"/>&emsp;Docker</td>
+         <td><img height="27px" src="https://github.com/user-attachments/assets/336ff79f-dc9a-4412-ab7d-ddad6e63e1d2"/>&emsp; Python</td>
        </tr>
        <tr>
          <td><img height="27px" src="https://github.com/user-attachments/assets/dccc4551-9b9e-43a5-a654-73f7b322b41b"/>&emsp; Javascript</td>
@@ -46,6 +47,7 @@
       <tr>
         <td></td>
         <td><img height="27px" src="https://github.com/user-attachments/assets/66e06b69-5ba5-4a91-b7e9-10f8bc63fbd5"/>&emsp;C#</td>
+        <td></td>
         <td></td>
         <td></td>
       </tr>
