@@ -15,7 +15,7 @@
   
   
 </div>
-
+<!--
    <table>
      <tr>
         <th>Now Studying</th>
@@ -93,7 +93,7 @@ error
   <br>
         </div>
       </div>
-</div>
+</div>-->
 
     
   <div align="center">
