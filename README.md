@@ -10,6 +10,8 @@
 
 ### <center>Repository stats</center>
 
+#
+
 <div>
 <div align="right">
 <!--  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-silva-teixeira&layout=compact&theme=gruvbox&hide_border=true&langs_count=8&bg_color=00000000)
