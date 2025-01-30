@@ -10,7 +10,6 @@
 
 #
 
-### <center>Repository stats</center>
 
 
 <div>
@@ -51,7 +50,7 @@
         <td></td>
         <td></td>
       </tr>
-
+<!--
 </tbody>
 
    </table>
@@ -99,8 +98,7 @@ error
         </div>
       </div>
 </div>-->
-
-    
+<!--   
   <div align="center">
     <p>
     </p>
@@ -108,9 +106,8 @@ error
     <img src="https://img.shields.io/github/stars/guilherme-silva-teixeira/guilherme-silva-teixeira.svg"/>
     <img src="https://img.shields.io/github/forks/guilherme-silva-teixeira/guilherme-silva-teixeira.svg"/>
       <img src="https://img.shields.io/github/followers/guilherme-silva-teixeira.svg?style=social&label=Follow&maxAge=2592000"/><br>
-    
-![](https://komarev.com/ghpvc/?username=guilherme-silva-teixeira&color=red&abbreviated=true)
+    ![](https://komarev.com/ghpvc/?username=guilherme-silva-teixeira&color=red&abbreviated=true)
     </div>
   </div>
   
-
+  -->
