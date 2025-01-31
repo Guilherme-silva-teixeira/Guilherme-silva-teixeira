@@ -6,7 +6,7 @@
 ![Main stats](https://github-readme-stats.vercel.app/api?username=Guilherme-silva-teixeira&show_icons=true&bg_color=00000000&hide_border=true&theme=dark)
 
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Guilherme-silva-teixeira&theme=dark&hide_border=true&card_width=877&bg_color=00000000" alt="GitHub Streak"/></a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Guilherme-silva-teixeira&theme=dark&hide_border=true&card_width=877&bg_color="0000"&alt="GitHub Streak"/></a>
 
 #
 
