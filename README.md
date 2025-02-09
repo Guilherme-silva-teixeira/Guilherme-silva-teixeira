@@ -6,7 +6,7 @@
 ![Main stats](https://github-readme-stats.vercel.app/api?username=Guilherme-silva-teixeira&show_icons=true&bg_color=00000000&hide_border=true&theme=dark)
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Guilherme-silva-teixeira&theme=highcontrast&hide_border=true&background=45%2CEB545400%2CEB545400)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Guilherme-silva-teixeira&theme=highcontrast&card_width=795&hide_border=true&background=45%2CEB545400%2CEB545400)](https://git.io/streak-stats)
 
 #
 
