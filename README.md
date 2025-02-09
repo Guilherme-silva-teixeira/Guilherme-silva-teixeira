@@ -109,5 +109,4 @@ error
     ![](https://komarev.com/ghpvc/?username=guilherme-silva-teixeira&color=red&abbreviated=true)
     </div>
   </div>
-  
   -->
