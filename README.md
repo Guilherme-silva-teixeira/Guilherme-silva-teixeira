@@ -7,7 +7,7 @@
 
 
 <a href="https://git.io/streak-stats">
-<img src="https://streak-stats.demolab.com?user=Guilherme-silva-teixeira&theme=dark&hide_border=true&card_width=877&bg_color="transparent"/>
+<img src="https://streak-stats.demolab.com?user=Guilherme-silva-teixeira&theme=highcontrast&hide_border=true&card_width=877&bg_color="transparent"/>
 </a>
 
 #
