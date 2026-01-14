@@ -1,4 +1,4 @@
-[background-image](caminho-ou-url-da-imagem)](https://exemplo.com)
+[background-image](github-svg.png)](https://exemplo.com)
 
 
 
