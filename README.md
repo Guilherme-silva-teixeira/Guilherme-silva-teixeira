@@ -1,27 +1,25 @@
-<svg width="400" height="400" viewBox="0 0 400 400">
+<svg width="400" height="120" viewBox="0 0 400 120"
+     xmlns="http://www.w3.org/2000/svg">
 
-  <!-- Fundo -->
+  <!-- Fundo + borda -->
   <rect
-    x="0"
-    y="0"
-    width="400"
-    height="400"
+    x="2" y="2"
+    width="396" height="116"
     fill="red"
     stroke="#F7D800"
-    stroke-width="6"
+    stroke-width="4"
+    rx="12"
   />
-  <svg
-    x="0"
-    y="175"
-    width="400"
-    height="50"
-    viewBox="0 0 435 50">
-    <a href="https://git.io/typing-svg">
-      <img
-        src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7D800&center=true&width=435&lines=Hello+World"
-        alt="Typing SVG"
-      />
-    </a>
-  </svg>
+
+  <!-- Texto simples (sem animate) -->
+  <text
+    x="200"
+    y="70"
+    text-anchor="middle"
+    font-family="Fira Code, monospace"
+    font-size="24"
+    fill="#F7D800">
+    Hello World
+  </text>
 
 </svg>
