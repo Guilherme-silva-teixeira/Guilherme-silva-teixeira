@@ -2,5 +2,5 @@
 [![Border](border.svg)](https://www.linkedin.com/in/guilherme-teixeira-858478304/)
 <img src="border.gif.gif">
 -->
-
-[![Rotating Text](test.svg)]
+<!--[![Rotating Text](test.svg)]
+-->
