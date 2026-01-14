@@ -57,6 +57,6 @@
 
   <!-- 4. Conteúdo Central -->
   <text x="50%" y="50%" class="content-text">
-     this is a test <br> isto é um teste
+     This is a test, isto é um teste.
   </text>
 </svg>
