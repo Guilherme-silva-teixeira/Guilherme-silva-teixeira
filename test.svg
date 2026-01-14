@@ -1,8 +1,7 @@
 <svg width="300" height="200" viewBox="0 0 300 200" xmlns="http://www.w3.org/2000/svg">
   <style>
-    /* Estilos CSS embutidos no SVG */
     .bg {
-      fill: #111; /* Cor de fundo da caixa */
+      fill: #111;
     }
     
     .content-text {
@@ -10,8 +9,8 @@
       font-family: sans-serif;
       font-size: 24px;
       font-weight: bold;
-      text-anchor: middle; /* Centraliza horizontalmente */
-      dominant-baseline: middle; /* Centraliza verticalmente */
+      text-anchor: middle;
+      dominant-baseline: middle;
     }
 
     .border-text {
@@ -39,7 +38,7 @@
   </style>
 
   <!-- 1. Fundo da caixa (Retângulo) -->
-  <rect width="100%" height="100%" class="bg" rx="20" ry="20" />
+  <rect width="300px" height="300px" class="bg" rx="20" ry="20" />
 
   <!-- 2. Definição do caminho invisível (bordas arredondadas) -->
   <defs>
