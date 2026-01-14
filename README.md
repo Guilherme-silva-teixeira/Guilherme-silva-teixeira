@@ -1,4 +1,4 @@
-[background-image](github-svg.png)](https://exemplo.com)
+[![background-image](github-svg.png)](https://exemplo.com)
 
 
 
