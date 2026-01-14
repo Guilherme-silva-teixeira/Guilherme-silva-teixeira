@@ -22,7 +22,7 @@
             <textPath xlink:href='#path0' startOffset="0%">
                 <!-- AQUI ESTÁ A MÁGICA DA ANIMAÇÃO -->
                 <animate attributeName="startOffset" 
-                         from="0%" to="10%" 
+                         from="0%" to="100%" 
                          dur="15s" 
                          repeatCount="indefinite" />
                 Hello World Hello World Hello World Hello World Hello World Hello World
