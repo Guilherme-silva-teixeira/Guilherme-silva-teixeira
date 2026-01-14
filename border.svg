@@ -17,7 +17,7 @@
 
      <text font-family='"Fira Code", monospace' fill='#ffc800' font-size='100'
               font-weight="bold"
-              transform="scale(1, 1)" dy="0">
+              transform="scale(0.5, 1)" dy="0">
             
             <textPath xlink:href='#path0' startOffset="0%">
                 <!-- AQUI ESTÁ A MÁGICA DA ANIMAÇÃO -->
