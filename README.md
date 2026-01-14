@@ -9,14 +9,6 @@
     stroke-width="4"
     rx="12"/>
   <!-- Texto simples (sem animate) -->
-  <text
-    x="200"
-    y="70"
-    text-anchor="middle"
-    font-family="Fira Code, monospace"
-    font-size="24"
-    fill="#F7D800">
-    Hello World
-  </text>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7D800&center=true&width=435&lines=Hello+World" alt="Typing SVG" /></a>
 
 </svg>
